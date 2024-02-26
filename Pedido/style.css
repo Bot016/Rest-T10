@@ -73,4 +73,10 @@ body{
 
 #selects-div{
    display: none;
+   flex-direction: column;
+   gap: 2vh;
+}
+
+.badge{
+  font-size: 1.3rem !important;
 }
